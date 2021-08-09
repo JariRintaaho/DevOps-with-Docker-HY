@@ -4,4 +4,4 @@
 
 Requested output 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/Fig_1_1.PNG)
