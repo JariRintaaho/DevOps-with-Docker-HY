@@ -14,4 +14,9 @@ Requested output
 
 ## Task 1.3
 
+The docker container was run with a command ""
+
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/Fig_1_3_part1.PNG)
+
+
 ## Task 1.4
