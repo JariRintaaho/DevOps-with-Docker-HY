@@ -18,5 +18,9 @@ The docker container was run with a command "docker container run devopsdockeruh
 
 ![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_3_part1.PNG)
 
+First the CONTAINER ID was checked using a command "docker container ls" The first two characters were "f0" The secret message was revealed with a command "docker container exec f0 tail -f ./text.log"
+
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_3_part2.PNG)
+
 
 ## Task 1.4
