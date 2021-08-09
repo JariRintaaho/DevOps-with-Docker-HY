@@ -27,5 +27,8 @@ First the CONTAINER ID was checked using a command "docker container ls" The fir
 
 ## Task 1.4
 
+First the Ubuntu was lauched. Then curl tool was installed
+
 Commands:
 - docker run -it ubuntu
+- apt-get update; apt-get install curl
