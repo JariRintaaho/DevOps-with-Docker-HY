@@ -26,3 +26,6 @@ First the CONTAINER ID was checked using a command "docker container ls" The fir
 
 
 ## Task 1.4
+
+Commands:
+- docker run -it ubuntu
