@@ -1,5 +1,7 @@
 # Part 1
 
+In this folder the answers for the Part 1 of this course will be. If possible they are in this readme file.
+
 ## Task 1.1
 
 Requested output 
