@@ -14,7 +14,7 @@ Requested output
 
 ## Task 1.3
 
-The docker container was run with a command ""
+The docker container was run with a command "docker container run devopsdockeruh/simple-web-service:ubuntu"
 
 ![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_3_part1.PNG)
 
