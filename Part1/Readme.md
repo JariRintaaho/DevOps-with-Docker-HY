@@ -48,3 +48,4 @@ A new terminal was launched. First the id of the running container was checked u
 
 ![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_5_part2.PNG)
 
+The secret message was "You can find the source code here: https://github.com/docker-hy"
