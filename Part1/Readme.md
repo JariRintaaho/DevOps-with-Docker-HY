@@ -40,6 +40,6 @@ Commands:
 
 ## Task 1.5
 
-The sizes of the images are significanlty different. The ...:ubuntu image is 83 MB and ...:alpine is 15.7 MB.
+The sizes of the images are significanlty different. The ...:ubuntu image is 83 MB and ...:alpine is 15.7 MB. The ...:alpine image was run as a container using command "docker container run fd" where fd are first two characters of the image ID.
 
-![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_5_part1.PNG)
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_5_part1_v2.PNG)
