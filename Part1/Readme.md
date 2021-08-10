@@ -27,8 +27,12 @@ First the CONTAINER ID was checked using a command "docker container ls" The fir
 
 ## Task 1.4
 
-First the Ubuntu was lauched. Then curl tool was installed
+First the Ubuntu was lauched. Then curl tool was installed. The bash script given in the task was run. For input "www.helsinki.fi" it gave no output. However, the input "www.hs.fi" gave more or less similar output that was given as an example in the task.
 
 Commands:
 - docker run -it ubuntu
 - apt-get update; apt-get install curl
+- sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_4.PNG)
+
