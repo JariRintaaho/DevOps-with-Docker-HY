@@ -52,3 +52,11 @@ The secret message was "You can find the source code here: https://github.com/do
 
 ## Task 1.6
 
+First the images was pull and run. The commands were
+
+- docker pull devopsdockeruh/pull_exercise
+- docker run -it devopsdockeruh/pull_exercise
+
+According to the documentation the passwords was "basics" This revealed the secret message "This is the secret message"
+
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_6.PNG)
