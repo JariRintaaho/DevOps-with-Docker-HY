@@ -60,3 +60,5 @@ First the images was pull and run. The commands were
 According to the documentation the passwords was "basics" This revealed the secret message "This is the secret message"
 
 ![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_6.PNG)
+
+## Task 1.7
