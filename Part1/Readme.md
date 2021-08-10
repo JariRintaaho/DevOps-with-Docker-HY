@@ -43,3 +43,8 @@ Commands:
 The sizes of the images are significanlty different. The ...:ubuntu image is 83 MB and ...:alpine is 15.7 MB. The ...:alpine image was run as a container using command "docker container run fd" where fd are first two characters of the image ID.
 
 ![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_5_part1_v2.PNG)
+
+A new terminal was launched. First the id of the running container was checked using a command "docker containers ls -a". Then the secret message was revealed with a command "docker container exec 8f sh -c 'tail -f ./text.log'" where 8f are the first two characters of the container ID.
+
+![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_5_part2.PNG)
+
