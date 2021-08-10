@@ -27,7 +27,7 @@ First the CONTAINER ID was checked using a command "docker container ls" The fir
 
 ## Task 1.4
 
-First the Ubuntu was lauched. Then curl tool was installed. The bash script given in the task was run. For input "www.helsinki.fi" it gave no output. However, the input "www.hs.fi" gave more or less similar output that was given as an example in the task.
+First the Ubuntu was lauched. Then curl tool was installed. The sh script given in the task was run. For input "www.helsinki.fi" it gave no output. However, the input "www.hs.fi" gave more or less similar output that was given as an example in the task.
 
 Commands:
 - docker run -it ubuntu
