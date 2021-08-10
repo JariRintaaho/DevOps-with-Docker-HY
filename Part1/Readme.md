@@ -36,3 +36,4 @@ Commands:
 
 ![alt text](https://github.com/JariRintaaho/DevOps-with-Docker-HY/blob/main/Part1/figs/Fig_1_4.PNG)
 
+## Task 1.5
